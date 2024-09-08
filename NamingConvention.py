@@ -1,8 +1,9 @@
-PiValue = 3.14 # Pascal Case
-userAge = 25 # Camel Case
+pi_value = 3.14 # snake Case
+user_age = 25 # snake Case
 user_location = "New York" # snake case
 MAX_LIMIT = 1000 # constant
-print(PiValue)
-print(userAge)
+
+print(pi_value)
+print(user_age)
 print(user_location)
-print(MAXLIMIT)
+print(MAX_LIMIT)
