@@ -7,7 +7,7 @@ else:
     print("Take an umbrella!")
 
 # Assignment Task 2
-user_feeling = input()
+user_feeling = input("How are you feeeling today? ")
 if user_feeling == "happy":
     print("That's great to hear!")
 else:
